@@ -1,6 +1,6 @@
 /**
  * @file index atom mock data
- * @author leon <ludafa@outlook.com>
+ * @author {{ author }}
  */
 
 module.exports = {

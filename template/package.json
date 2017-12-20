@@ -1,7 +1,7 @@
 {
-  "name": "atom-site",
+  "name": "{{ name }}",
   "version": "1.0.0",
-  "description": "使用 atom 和 fis3 来创建网站应用的种子项目",
+  "description": "{{ description }}",
   "main": "index.js",
   "scripts": {
     "build:dev": "rimraf output && fis3 release dev -f fis-conf.js -d output --clean",
@@ -15,7 +15,7 @@
     "url": "git+https://github.com/jinzhubaofu/atom-fis-starter.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "{{ author }}",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jinzhubaofu/atom-fis-starter/issues"

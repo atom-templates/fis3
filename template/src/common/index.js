@@ -1,6 +1,6 @@
 /**
  * @file main entry
- * @author leon <ludafa@outlook.com>
+ * @author {{ author }}
  */
 
 import Atom from '@baidu/vip-server-renderer/js/atom';

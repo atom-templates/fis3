@@ -1,6 +1,6 @@
 /**
  * @file Ralltiir routes
- * @author leon <ludafa@outlook.com>
+ * @author {{ author }}
  */
 
 export default [

@@ -1,6 +1,6 @@
 /**
  * @file ralltiir bootstrap
- * @author leon <ludafa@outlook.com>
+ * @author {{ author }}
  */
 
 import rt from 'ralltiir';
